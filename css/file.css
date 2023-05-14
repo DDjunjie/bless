@@ -7,7 +7,7 @@ body{
     height: 200vh;
 }
 .bg{
-    background-image: url(./file.css);
+    background-image: url(../img/1.jpg);
     background-position: 50% 50%;
     height: 200vh;
     font-size: 350px;
